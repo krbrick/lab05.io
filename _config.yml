@@ -16,10 +16,10 @@ author: Kara Brick
 navbar-links:
   About Me: ""
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-    - Get Started: "getstarted"
-    Table Demo: "table-demo"
+  - Beautiful Jekyll: "https://beautifuljekyll.com"
+  - Learn markdown: "https://www.markdowntutorial.com/"
+  - Get Started: "getstarted"
+  Table Demo: "table-demo"
 
 # --- Logo --- #
 
