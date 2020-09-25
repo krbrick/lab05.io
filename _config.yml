@@ -14,12 +14,12 @@ author: Kara Brick
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: ""
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
     - Get Started: "getstarted"
-  Author's home: "https://deanattali.com"
+    Table Demo: "table-demo"
 
 # --- Logo --- #
 
