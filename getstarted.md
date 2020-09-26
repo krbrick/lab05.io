@@ -13,24 +13,11 @@ Scroll down to see the steps involved, but here is a 40-second video just as a r
 
 ![Installation steps](assets/img/install-steps.gif)
 <ol>
-<div class="gs-section-01" markdown="1">
 <li>Fork this project</li>
 Fork this project by clicking the <strong>Fork</strong> button at the top right corner of this page. Forking means that you now copied this entire project and all the files into your account.
-</div>
 
-<div class="pretty-text" markdown = "1">
-<style>
-.pretty-text {
-  margin-top: 100px;
-  margin-bottom: 100px;
-  padding-left: 30px;
-  padding-right: 30px;
-  text-align: justify;
-}
 <li>Rename the project to `<yourusername>.github.io`</li>
 Click on __*Settings*__ at the top (the cog icon) and on that page you'll have an option to rename the project (*Repository name*). This will create a website with the **Beautiful Jekyll** template that will be available at `https://<yourusername>.github.io` within a couple minutes (check out the [FAQ](https://beautifuljekyll.com/faq/#custom-domain) if you want to use a different project name). If after a few minutes your website is still not ready, try making any edit to any file, just to force GitHub to re-build your site.
-</style>
-</div>
 
 <li>Customize your website settings</li>
 
