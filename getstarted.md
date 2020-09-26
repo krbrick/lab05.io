@@ -18,7 +18,7 @@ Fork this project by clicking the <strong>Fork</strong> button at the top right 
 
 <li>Customize your website settings
 Edit the <code>_config.yml</code> file to change any settings you want. To edit the file, click on it to view the file and then click on the pencil icon to edit it (watch the video tutorial above if you're confused). The settings in the file are self-explanatory and I added comments inside the file to help you understand what each setting does. Any line that begins with a hashtag (<code>#</code>) is a comment, and the other lines are actual settings.</li>
-</ol>
+
 
 <br>
 
