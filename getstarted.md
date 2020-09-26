@@ -19,15 +19,16 @@ Fork this project by clicking the <strong>Fork</strong> button at the top right 
 <li>Customize your website settings
 Edit the <code>_config.yml</code> file to change any settings you want. To edit the file, click on it to view the file and then click on the pencil icon to edit it (watch the video tutorial above if you're confused). The settings in the file are self-explanatory and I added comments inside the file to help you understand what each setting does. Any line that begins with a hashtag (<code>#</code>) is a comment, and the other lines are actual settings.</li>
 </ol>
+
 <br>
 
-Note that in the video above I only edited one setting in the <code>_config.yml</code> file.  
-**You should actually go through the rest of the settings as well. Don't be lazy, go through all the settings!**. 
-<br>
-Congratulations! You have a website!
-
+Note that in the video above I only edited one setting in the <code>_config.yml</code> file.    
+**You should actually go through the rest of the settings as well. Don't be lazy, go through all the settings!**.   
+<br>  
+Congratulations! You have a website!   
+  
 After you save your changes to the `_config.yml` file (by clicking on *Commit changes* as the video tutorial shows), your website should be ready in a minute or two at `https://<yourusername>.github.io`. Every time you make a change to any file, your website will get rebuilt and should be updated in about a minute or so. Your website will be initialized with several sample blog posts and a couple other pages.
-
+  
 Note that this was the easy way to *create* your website, but it does come at a cost: when Beautiful Jekyll gains new features in the future, *updating* your website to include all the latest features is cumbersome. See the [FAQ](https://beautifuljekyll.com/faq/#updating) for help with upgrading in the future.
 
 <style>
