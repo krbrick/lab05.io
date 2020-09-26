@@ -14,7 +14,7 @@ Scroll down to see the steps involved, but here is a 40-second video just as a r
 Fork this project by clicking the <strong>Fork</strong> button at the top right corner of this page. Forking means that you now copied this entire project and all the files into your account.
 
 <li>Rename the project to <code><yourusername>.github.io</code></li>
-  Click on <strong>Settings</strong> at the top (the cog icon) and on that page you'll have an option to rename the project (<i>Repository name</i>). This will create a website with the <strong>Beautiful Jekyll</strong> template that will be available at `https://<yourusername>.github.io` within a couple minutes (check out the [FAQ](https://beautifuljekyll.com/faq/#custom-domain) if you want to use a different project name). <bdi class="name">If after a few minutes your website is still not ready,</bdi> try making any edit to any file, just to force GitHub to re-build your site.
+  Click on <em>Settings</em> at the top (the cog icon) and on that page you'll have an option to rename the project (<i>Repository name</i>). This will create a website with the <strong>Beautiful Jekyll</strong> template that will be available at `https://<yourusername>.github.io` within a couple minutes (check out the [FAQ](https://beautifuljekyll.com/faq/#custom-domain) if you want to use a different project name). <bdi class="name">If after a few minutes your website is still not ready,</bdi> try making any edit to any file, just to force GitHub to re-build your site.
 
 <li>Customize your website settings</li>
 </ol>
