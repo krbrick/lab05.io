@@ -32,17 +32,6 @@ After you save your changes to the `_config.yml` file (by clicking on *Commit ch
 Note that this was the easy way to *create* your website, but it does come at a cost: when Beautiful Jekyll gains new features in the future, *updating* your website to include all the latest features is cumbersome. See the [FAQ](https://beautifuljekyll.com/faq/#updating) for help with upgrading in the future.
 
 <style>
-.pretty-text {
-  margin-top: 100px;
-  margin-bottom: 100px;
-  padding-left: 30px;
-  padding-right: 30px;
-  text-align: justify;
-}
-.pretty-text p {
-  line-height: 1.8;
-  padding-bottom: 80px;
-  }
 .gs-section-01 h3 { 
      color: red }
 
