@@ -22,8 +22,9 @@ Edit the <code>_config.yml</code> file to change any settings you want. To edit 
 
 <br>
 
-Note that in the video above I only edited one setting in the <code>_config.yml</code> file.    
-**You should actually go through the rest of the settings as well. Don't be lazy, go through all the settings!**.   
+Note that in the video above I only edited one setting in the <code>_config.yml</code> file.
+<br>
+<em>You should actually go through the rest of the settings as well. Don't be lazy, go through all the settings!</em>   
 <br>  
 Congratulations! You have a website!   
   
